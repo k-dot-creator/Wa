@@ -1,0 +1,16 @@
+{
+  "name": "robbiejr-v2-bot",
+  "version": "2.0.0",
+  "description": "★ ROBBIEJR V2 WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ROBBIEJR",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "4.76.0",
+    "axios": "1.6.7",
+    "qrcode": "1.5.3"
+  }
+}
